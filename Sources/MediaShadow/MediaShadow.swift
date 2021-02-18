@@ -1,3 +1,6 @@
-struct MediaShadow {
-    var text = "Hello, World!"
+public struct MediaShadow {
+    public var text = "Hello, World!"
+    
+    public init() {}
 }
+
